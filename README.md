@@ -1,3 +1,21 @@
+## hulu-clone 🚀 🚀 🚀
+Live Demo 👉 https://hulu-clone-fcaec.web.app/
+
+![Screenshot from 2021-02-21 08-52-03](https://user-images.githubusercontent.com/74534919/108614649-51803980-7422-11eb-9991-4d1de0c9af5b.png)
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+     <li>IMDB_API</li>
+     <li>axios</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>react-flip-move</li>
+  </ul>
+</details>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
